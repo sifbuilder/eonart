@@ -1,0 +1,22 @@
+{
+  "name": "eonart",
+  "version": "0.0.1",
+  "description": "eonart",
+  "author": "sifbuilder",
+  "keywords": [
+    "eons",
+    "gatsby",
+    "netlify"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "readimage": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sifbuilder/eonart.git"
+  }
+}
